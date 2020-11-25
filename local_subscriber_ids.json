@@ -1,0 +1,35 @@
+{
+  "count": 2, 
+  "results": [
+    {
+      "callsign": "EA4GAX", 
+      "city": "Madrid", 
+      "country": "Spain", 
+      "fname": "Sergio", 
+      "id": 2144117, 
+      "remarks": "", 
+      "state": "", 
+      "surname": ""
+    },
+       {
+      "callsign": "------", 
+      "city": "", 
+      "country": "", 
+      "fname": "------", 
+      "id": 0, 
+      "remarks": "", 
+      "state": "", 
+      "surname": ""
+    },
+    {
+      "callsign": "SP2ABC", 
+      "city": "", 
+      "country": "", 
+      "fname": "Jan", 
+      "id": 26032254, 
+      "remarks": "", 
+      "state": "", 
+      "surname": ""
+    } 
+  ]
+}
